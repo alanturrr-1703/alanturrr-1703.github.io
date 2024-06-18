@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Silicon Safari  - by Harshit Thakkar (alanturrr1703)  # the main title
+title: Silicon Safari  # the main title
 
 tagline: I like to talk and teach tech in simple manner  # it will display as the sub-title
 
